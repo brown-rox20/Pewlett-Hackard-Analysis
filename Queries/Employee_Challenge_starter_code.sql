@@ -1,5 +1,5 @@
 -- Use Dictinct with Orderby to remove duplicate rows
-SELECT DISTINCT ON (______) _____,
+SELECT DISTINCT ON (____) , _____
 ______,
 ______,
 ______
