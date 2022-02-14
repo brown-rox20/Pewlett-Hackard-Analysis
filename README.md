@@ -4,6 +4,10 @@
 
 The team at Pewlett-Hackard are aware that a large part of their workforce is approaching their retirement age. The goal of PH headquarters was to review a list of employees who are about to retirement per title. Then the company wants to determine which employees would be eligibile for a mentorship program.
 
+## Resources
+
+- Software: PostgresSQL v14, PgAdmin 4
+
 ## Results
 
 ### Deliverable #1 - The Number of Retiring Employee by title
