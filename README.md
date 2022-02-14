@@ -6,6 +6,8 @@ The team at Pewlett-Hackard are aware that a large part of their workforce is ap
 
 ## Results
 
+### The Number of Retiring Employee by title
+
 To start off the data showed that there were duplicate employees that had taken different postions so we needed to find a way to exlcude duplicates. We use the following code to make that happen.
 
 ```
@@ -22,11 +24,18 @@ ORDER BY emp_no, to_date DESC;
 below is a picture of the unique titles table saved to a csv
 
 <img src="https://github.com/brown-rox20/Pewlett-Hackard-Analysis/blob/main/Resources/unique_titles.png" alt="unique_titles.png"
-width="450">
+width="525">
 
 The results show that there are a lot retiring employees. According to the retiring titles table the total count of employee opening is 72,458. The department with the most elegible retirees is the Senior Engineering team with 25,916 opening followed by the senior staff with 24,926 opening.
 
 <img src="https://github.com/brown-rox20/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png" alt="retiring_titles.png"
 width="340">
+
+### Deliverable #2 - The Employee Eligible for the Mentorship Program
+
+The total eligible employees for the Mentorship Program is 1550. The head of the csv file is below.
+
+<img src="https://github.com/brown-rox20/Pewlett-Hackard-Analysis/blob/main/Resources/mentoring_titles.png alt="retiring_titles.png"
+width="525">
 
 ## Summary
