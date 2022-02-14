@@ -35,7 +35,7 @@ width="340">
 
 The total eligible employees for the Mentorship Program is 1550. The head of the csv file is below.
 
-<img src="https://github.com/brown-rox20/Pewlett-Hackard-Analysis/blob/main/Resources/mentoring_titles.png alt="retiring_titles.png"
+<img src="https://github.com/brown-rox20/Pewlett-Hackard-Analysis/blob/main/Resources/mentoring_titles.png" alt="mentoring_titles.png"
 width="525">
 
 ## Summary
