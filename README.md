@@ -27,6 +27,6 @@ width="400">
 The results show that there are a lot retiring employees. According to the retiring titles table the total count of employee opening is 72,458. The department with the most elegible retirees is the Senior Engineering team with 25,916 opening followed by the senior staff with 24,926 opening.
 
 <img src="https://github.com/brown-rox20/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png" alt="retiring_titles.png"
-width="400">
+width="340">
 
 ## Summary
